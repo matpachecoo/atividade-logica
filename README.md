@@ -13,11 +13,7 @@ As atividades incluem tópicos como:
 - Variáveis e Tipos de Dados
 - Estruturas de Decisão (if, elif, else)
 - Laços de Repetição (for, while)
-- Listas, Tuplas e Dicionários
 - Funções
-- Manipulação de Arquivos
-- Tratamento de Erros
-- Programação Orientada a Objetos (POO)
 - Exercícios práticos e desafios
 
 ## Estrutura do Projeto
